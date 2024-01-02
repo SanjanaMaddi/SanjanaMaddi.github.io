@@ -1,3 +1,22 @@
-h1 {
-  color: red;
+body{
+ background-color: aquamarine;
+}
+
+.para{
+    border: solid black 10px;
+    font-size: 40px;
+    font-family: "American Typewriter";
+    text-align: center;
+}
+h2{
+   background-color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+
+h1{
+    font-family: "Arial Unicode MS";
+    font-size: 55px;
+    text-align: center;
+
 }
